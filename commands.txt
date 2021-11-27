@@ -88,7 +88,7 @@ pm uninstall -k --user 0 com.osp.app.signin
 pm uninstall -k --user 0 com.policydm
 
 pm uninstall -k --user 0 com.samsung.aasaservice
-pm uninstall -k --user 0 com.samsung.advp.imssettings
+
 pm uninstall -k --user 0 com.samsung.android.aircommandmanager
 pm uninstall -k --user 0 com.samsung.android.allshare.service.fileshare
 pm uninstall -k --user 0 com.samsung.android.allshare.service.mediashare
@@ -157,7 +157,7 @@ pm uninstall -k --user 0 com.samsung.android.hmt.vrsvc
 pm uninstall -k --user 0 com.samsung.android.keyguardwallpaperupdator
 pm uninstall -k --user 0 com.samsung.android.kidsinstaller
 pm uninstall -k --user 0 com.samsung.android.knox.analytics.uploader
-pm uninstall -k --user 0 com.samsung.android.lool
+
 pm uninstall -k --user 0 com.samsung.android.mateagent
 pm uninstall -k --user 0 com.samsung.android.mdm
 pm uninstall -k --user 0 com.samsung.android.mdx
@@ -295,9 +295,6 @@ pm uninstall -k --user 0 com.sec.factory
 pm uninstall -k --user 0 com.sec.factory.camera
 pm uninstall -k --user 0 com.sec.factory.iris.usercamera
 pm uninstall -k --user 0 com.sec.hearingadjust
-pm uninstall -k --user 0 com.sec.ims
-pm uninstall -k --user 0 com.sec.imslogger
-pm uninstall -k --user 0 com.sec.imsservice
 pm uninstall -k --user 0 com.sec.kidsplat.installer
 pm uninstall -k --user 0 com.sec.knox.foldercontainer
 pm uninstall -k --user 0 com.sec.knox.knoxsetupwizardclient
@@ -336,7 +333,11 @@ pm uninstall -k --user 0 com.wssnps
 
 pm uninstall -k --user 0 com.yelp.android.samsungedge
 
-pm uninstall -k --user 0 comflipboard.app
-pm uninstall -k --user 0 comflipboard.boxer.app
+pm uninstall -k --user 0 com.flipboard.app
+pm uninstall -k --user 0 com.flipboard.boxer.app
 
-pm uninstall -k --user 0 comtv.peel.samsung.app
+pm uninstall -k --user 0 com.tv.peel.samsung.app
+
+pm uninstall -k --user 0 com.netflix.mediaclient
+
+#pm uninstall -k --user 0 com.samsung.android.lool
