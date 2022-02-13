@@ -51,7 +51,7 @@ main() {
     declare -a EXTERNAL_LIST=() # APK/package list provided by the user (populated by import_external_list())
     declare -a USERS=() # User list (populated by debloat_or_restore())
     declare -ra LISTS=(us_carriers french_carrier german_carriers "$BRAND" google facebook amazon microsoft \
-                       qualcomm mediatek misc aosp pending EXTERNAL_LIST)
+                       qualcomm mediatek misc aosp pending fold EXTERNAL_LIST)
 
     declare -i FORCE_UNINSTALL=0
     declare -i RESTORE=0
@@ -161,7 +161,7 @@ main() {
             if [[ "$REPLY" =~ 3 ]]; then lists_selection google facebook amazon microsoft; fi
             if [[ "$REPLY" =~ 1 ]]; then debloat_or_restore; fi
             if [[ "$REPLY" =~ 2 ]]; then debloat_or_restore "$BRAND"; fi
-            if [[ "$REPLY" =~ 5 ]]; then lists_selection qualcomm mediatek misc; fi
+            if [[ "$REPLY" =~ 5 ]]; then lists_selection qualcomm mediatek misc fold; fi
             if [[ "$REPLY" =~ 6 ]]; then debloat_or_restore aosp; fi
             if [[ "$REPLY" =~ 8 ]]; then create_flashable_zip; fi
             if [[ "$REPLY" =~ 0 ]]; then debloat_or_restore pending; fi
