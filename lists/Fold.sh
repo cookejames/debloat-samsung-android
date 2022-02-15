@@ -57,16 +57,16 @@ declare -a fold=(
 	# Stub for the watch manager. See above
 	# Stub = https://stackoverflow.com/questions/10648280/what-is-stub-and-aidl-for-in-java
 
-	#"com.samsung.android.bixby.agent" # Bixby voice
+	"com.samsung.android.bixby.agent" # Bixby voice
 	# Removing this will disable the bixby hardware key without breaking Bixby itself.
 
-	#"com.samsung.android.bixby.agent.dummy" # Bixby Voice Stub
-	#"com.samsung.android.bixby.es.globalaction"
-	#"com.samsung.android.bixby.plmsync"
-	#"com.samsung.android.bixby.service" # Bixby Service
-	#"com.samsung.android.bixby.voiceinput"
-	#"com.samsung.android.bixby.wakeup" # Bixby voice wake-up
-	#"com.samsung.android.bixbyvision.framework" # BixbyVision Framework
+	"com.samsung.android.bixby.agent.dummy" # Bixby Voice Stub
+	"com.samsung.android.bixby.es.globalaction"
+	"com.samsung.android.bixby.plmsync"
+	"com.samsung.android.bixby.service" # Bixby Service
+	"com.samsung.android.bixby.voiceinput"
+	"com.samsung.android.bixby.wakeup" # Bixby voice wake-up
+	"com.samsung.android.bixbyvision.framework" # BixbyVision Framework
 
 	"com.samsung.android.calendar"
 	# Samsung Calendar App

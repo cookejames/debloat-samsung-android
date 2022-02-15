@@ -127,7 +127,6 @@ com.samsung.internal.systemui.navbar.sec_gestural_no_hint
 com.samsung.android.aircommandmanager
 com.samsung.android.net.wifi.wifiguider
 com.samsung.android.wifi.softapwpathree.resources
-com.samsung.android.bixby.service
 com.samsung.android.service.stplatform
 com.samsung.android.smartface
 com.android.egg
@@ -146,7 +145,6 @@ com.samsung.android.samsungpositioning
 com.android.statementservice
 com.google.android.as
 com.google.android.gm
-com.samsung.android.bixby.agent
 com.google.android.apps.tachyon
 com.google.android.overlay.gmsconfig.common
 com.sec.android.app.hwmoduletest
@@ -273,7 +271,6 @@ com.google.android.documentsui
 com.samsung.android.ConnectivityUxOverlay
 com.android.dreams.phototable
 com.samsung.android.carkey
-com.samsung.android.bixbyvision.framework
 com.google.mainline.telemetry
 com.samsung.safetyinformation
 com.samsung.android.dialer
@@ -307,7 +304,6 @@ com.samsung.android.uwb
 com.sec.unifiedwfc
 com.sec.phone
 com.samsung.android.appseparation
-com.samsung.android.bixby.wakeup
 com.samsung.android.app.updatecenter
 com.samsung.android.honeyboard
 com.google.android.networkstack.permissionconfig

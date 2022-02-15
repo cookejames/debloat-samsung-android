@@ -10,3 +10,7 @@ com.samsung.android.samsungpassautofill
 com.samsung.android.spayfw
 com.sec.android.app.samsungapps
 com.sec.android.mimage.avatarstickers
+com.samsung.android.bixby.agent
+com.samsung.android.bixby.service
+com.samsung.android.bixbyvision.framework
+com.samsung.android.bixby.wakeup
