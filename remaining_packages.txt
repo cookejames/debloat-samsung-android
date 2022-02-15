@@ -21,11 +21,9 @@ com.android.providers.telephony
 com.sec.android.app.ve.vebgm
 com.sec.android.app.parser
 com.android.dynsystem
-com.samsung.unifiedtp
 com.samsung.android.app.kfa
 com.samsung.android.networkstack
 com.google.android.googlequicksearchbox
-com.samsung.android.calendar
 com.google.android.cellbroadcastservice
 com.android.providers.calendar
 com.osp.app.signin
@@ -34,6 +32,7 @@ com.samsung.clipboardsaveservice
 com.sec.automation
 com.samsung.android.service.airviewdictionary
 com.android.providers.media
+com.touchtype.swiftkey
 com.google.android.onetimeinitializer
 com.google.android.ext.shared
 com.android.internal.systemui.navbar.gestural_wide_back
@@ -47,7 +46,6 @@ com.samsung.android.incallui
 com.samsung.android.knox.containercore
 com.samsung.android.service.livedrawing
 com.samsung.android.service.tagservice
-com.samsung.android.kidsinstaller
 com.sec.factory.camera
 com.samsung.phone.overlay.common
 com.sec.usbsettings
@@ -78,7 +76,6 @@ com.sec.android.widgetapp.easymodecontactswidget
 com.samsung.android.knox.kpecore
 com.samsung.android.knox.pushmanager
 com.sec.android.app.factorykeystring
-com.sec.android.app.samsungapps
 com.sec.android.emergencymode.service
 com.google.android.configupdater
 com.sec.android.app.wlantest
@@ -89,7 +86,6 @@ com.google.android.overlay.modules.permissioncontroller
 com.samsung.android.app.settings.bixby
 com.sec.android.app.billing
 com.sec.epdgtestapp
-com.samsung.android.game.gamehome
 com.sec.android.app.desktoplauncher
 com.samsung.android.wifi.p2paware.resources
 com.sec.android.app.uwbtest
@@ -121,9 +117,9 @@ com.samsung.SMT
 com.samsung.cmh
 com.samsung.mlp
 com.samsung.rcs
-com.samsung.ssu
 android
 com.android.hotwordenrollment.xgoogle
+com.samsung.android.wcmurlsnetworkstack
 com.samsung.android.sm.devicesecurity
 com.google.android.overlay.modules.cellbroadcastreceiver
 com.samsung.android.peripheral.framework
@@ -179,7 +175,6 @@ com.samsung.android.mdagent
 com.samsung.android.service.health
 com.sec.android.systemupdate
 com.qualcomm.qti.services.systemhelper
-com.samsung.android.wcmchinaurlsnetworkstack
 com.samsung.android.mdx.kit
 com.samsung.storyservice
 com.android.dreams.basic
@@ -194,7 +189,6 @@ com.samsung.knox.securefolder
 com.android.bips
 com.google.audio.hearing.visualization.accessibility.scribe
 com.android.stk2
-com.samsung.android.game.gametools
 com.samsung.desktopsystemui
 com.samsung.android.app.simplesharing
 com.samsung.android.app.contacts
@@ -229,7 +223,6 @@ com.samsung.euicc
 com.sec.imslogger
 com.android.keychain
 com.qti.snapdragon.qdcm_ff
-com.samsung.huxextension
 com.samsung.android.ardrawing
 com.android.chrome
 com.samsung.android.ipsgeofence
@@ -271,6 +264,7 @@ com.google.android.feedback
 com.google.android.printservice.recommendation
 com.google.android.syncadapters.calendar
 com.android.managedprovisioning
+com.swiftkey.swiftkeyconfigurator
 com.samsung.controlpanel
 com.samsung.android.setting.multisound
 com.samsung.android.arzone
@@ -285,8 +279,6 @@ com.samsung.safetyinformation
 com.samsung.android.dialer
 com.samsung.android.wifi.h2e.resources
 com.samsung.android.dqagent
-com.samsung.android.game.gos
-com.samsung.android.forest
 com.sec.android.app.vepreload
 com.android.providers.partnerbookmarks
 com.samsung.android.hdmapp
@@ -318,7 +310,6 @@ com.samsung.android.appseparation
 com.samsung.android.bixby.wakeup
 com.samsung.android.app.updatecenter
 com.samsung.android.honeyboard
-com.samsung.android.samsungpass
 com.google.android.networkstack.permissionconfig
 com.samsung.vklayer.sm8350
 com.samsung.android.app.notes.addons
@@ -327,7 +318,6 @@ com.samsung.android.scloud
 com.samsung.android.app.soundpicker
 com.samsung.android.app.sharelive
 com.sec.app.RilErrorNotifier
-com.samsung.android.spayfw
 com.android.bookmarkprovider
 com.android.settings
 com.qualcomm.qti.smq
@@ -340,7 +330,6 @@ com.samsung.android.app.notes
 com.sec.android.app.bluetoothtest
 com.sec.android.sdhms
 com.samsung.android.app.spage
-com.sec.android.mimage.avatarstickers
 com.samsung.android.knox.analytics.uploader
 com.samsung.android.sm.policy
 com.sec.android.emergencylauncher
@@ -358,7 +347,6 @@ com.knox.vpn.proxyhandler
 com.android.cts.ctsshim
 com.samsung.oda.service
 com.samsung.android.livestickers
-com.samsung.android.app.watchmanagerstub
 com.samsung.android.svcagent
 com.google.android.overlay.modules.modulemetadata.forframework
 com.sec.mhs.smarttethering
@@ -392,7 +380,6 @@ com.google.android.gms.location.history
 com.android.internal.systemui.navbar.gestural
 com.android.location.fused
 com.samsung.android.app.appsedge
-com.samsung.android.samsungpassautofill
 com.sec.epdg
 com.android.systemui
 com.sec.android.app.personalization
@@ -400,13 +387,13 @@ com.sec.factory.cameralyzer
 com.android.bluetoothmidiservice
 com.samsung.android.sdk.handwriting
 com.facebook.appmanager
-com.sec.solar.service.audio
 com.samsung.aasaservice
 com.samsung.android.service.pentastic
 com.samsung.android.smartsuggestions
 com.android.traceur
 com.google.android.cellbroadcastreceiver
 com.samsung.android.allshare.service.mediashare
+com.samsung.android.providers.factory
 com.sec.android.provider.emergencymode
 com.samsung.android.cameraxservice
 android.auto_generated_rro_product__

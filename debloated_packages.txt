@@ -1,0 +1,12 @@
+com.samsung.android.app.watchmanagerstub
+com.samsung.android.calendar
+com.samsung.android.forest
+com.samsung.android.game.gamehome
+com.samsung.android.game.gametools
+com.samsung.android.game.gos
+com.samsung.android.kidsinstaller
+com.samsung.android.samsungpass
+com.samsung.android.samsungpassautofill
+com.samsung.android.spayfw
+com.sec.android.app.samsungapps
+com.sec.android.mimage.avatarstickers

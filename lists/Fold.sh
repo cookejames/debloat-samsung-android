@@ -11,7 +11,7 @@ declare -a fold=(
 	# Lets your access videos, music and gaming and gives quick access to services such as cabs, movies, recharge and bill payment, 
 	# food ordering, travel, hyper local deals and Samsung Care, among others.
 
-	"com.samsung.aasaservice"
+	#"com.samsung.aasaservice"
 	# Sometimes, eat a LOT of battery (according to some reddit users)
 	# Security policy apps (kind of things which prevents installation of applications)
 
@@ -38,7 +38,7 @@ declare -a fold=(
 	# V LIVE is an app that features personal video broadcasts of South Korean celebrities
 	# This panel also includes Naver Shopping (https://shopping.naver.com/)
 
-	"com.samsung.android.app.tips"
+	#"com.samsung.android.app.tips"
 	# Tips on how to use your phone"
 
 
@@ -57,16 +57,16 @@ declare -a fold=(
 	# Stub for the watch manager. See above
 	# Stub = https://stackoverflow.com/questions/10648280/what-is-stub-and-aidl-for-in-java
 
-	"com.samsung.android.bixby.agent" # Bixby voice
+	#"com.samsung.android.bixby.agent" # Bixby voice
 	# Removing this will disable the bixby hardware key without breaking Bixby itself.
 
-	"com.samsung.android.bixby.agent.dummy" # Bixby Voice Stub
-	"com.samsung.android.bixby.es.globalaction"
-	"com.samsung.android.bixby.plmsync"
-	"com.samsung.android.bixby.service" # Bixby Service
-	"com.samsung.android.bixby.voiceinput"
-	"com.samsung.android.bixby.wakeup" # Bixby voice wake-up
-	"com.samsung.android.bixbyvision.framework" # BixbyVision Framework
+	#"com.samsung.android.bixby.agent.dummy" # Bixby Voice Stub
+	#"com.samsung.android.bixby.es.globalaction"
+	#"com.samsung.android.bixby.plmsync"
+	#"com.samsung.android.bixby.service" # Bixby Service
+	#"com.samsung.android.bixby.voiceinput"
+	#"com.samsung.android.bixby.wakeup" # Bixby voice wake-up
+	#"com.samsung.android.bixbyvision.framework" # BixbyVision Framework
 
 	"com.samsung.android.calendar"
 	# Samsung Calendar App
@@ -170,8 +170,8 @@ declare -a fold=(
 	# OOOPS ! https://bgr.com/2019/10/31/samsung-members-dong-pic-oops/
 	# The other version is "com.samsung.android.voc".
 
-	"com.samsung.systemui.bixby"
-	"com.samsung.systemui.bixby2"
+	#"com.samsung.systemui.bixby"
+	#s"com.samsung.systemui.bixby2"
 	# System UI for Bixby/Bixby2
 
 	"com.sec.android.app.gamehub"
