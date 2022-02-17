@@ -11,7 +11,7 @@ declare -a fold=(
 	# Lets your access videos, music and gaming and gives quick access to services such as cabs, movies, recharge and bill payment, 
 	# food ordering, travel, hyper local deals and Samsung Care, among others.
 
-	#"com.samsung.aasaservice"
+	"com.samsung.aasaservice"
 	# Sometimes, eat a LOT of battery (according to some reddit users)
 	# Security policy apps (kind of things which prevents installation of applications)
 
@@ -229,4 +229,13 @@ declare -a fold=(
 	# https://ifstudies.org/blog/a-smartphone-will-change-your-child-in-ways-you-might-not-expect-or-want
 
 
+	"com.samsung.android.app.settings.bixby"
+	"com.samsung.systemui.bixby2"
+	#Further bixby
+
+	"com.samsung.android.arzone"
+	# Who wants ar zone?
+
+	"com.samsung.android.messaging"
+	# Samsung messaging app
 )

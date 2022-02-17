@@ -83,7 +83,6 @@ com.samsung.android.accessibility.talkback
 com.google.android.providers.media.module
 com.sec.android.smartfpsadjuster
 com.google.android.overlay.modules.permissioncontroller
-com.samsung.android.app.settings.bixby
 com.sec.android.app.billing
 com.sec.epdgtestapp
 com.sec.android.app.desktoplauncher
@@ -97,7 +96,6 @@ com.android.vending
 com.android.pacprocessor
 com.android.simappdialog
 com.samsung.android.knox.attestation
-com.samsung.systemui.bixby2
 com.samsung.android.secsoundpicker
 com.samsung.android.incall.contentprovider
 com.samsung.internal.systemui.navbar.sec_gestural
@@ -134,7 +132,6 @@ com.android.mtp
 com.android.nfc
 com.android.ons
 com.android.stk
-com.samsung.android.messaging
 com.samsung.android.camerasdkservice
 com.android.backupconfirm
 com.samsung.klmsagent
@@ -265,7 +262,6 @@ com.android.managedprovisioning
 com.swiftkey.swiftkeyconfigurator
 com.samsung.controlpanel
 com.samsung.android.setting.multisound
-com.samsung.android.arzone
 com.samsung.android.authfw
 com.google.android.documentsui
 com.samsung.android.ConnectivityUxOverlay
@@ -383,7 +379,6 @@ com.sec.factory.cameralyzer
 com.android.bluetoothmidiservice
 com.samsung.android.sdk.handwriting
 com.facebook.appmanager
-com.samsung.aasaservice
 com.samsung.android.service.pentastic
 com.samsung.android.smartsuggestions
 com.android.traceur
