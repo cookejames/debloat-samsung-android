@@ -238,4 +238,15 @@ declare -a fold=(
 
 	"com.samsung.android.messaging"
 	# Samsung messaging app
+	
+	"com.samsung.android.fast"
+	# Samsung secure wifi
+
+	"com.samsung.android.app.spage"
+	# Samsung Free
+
+	"com.facebook.appmanager"
+	"com.facebook.services"
+	"com.facebook.system"
+	# Facebook
 )

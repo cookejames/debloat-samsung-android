@@ -162,7 +162,6 @@ com.sec.android.app.volumemonitorprovider
 com.samsung.accessibility
 com.sec.imsservice
 com.android.sharedstoragebackup
-com.facebook.services
 com.samsung.android.mobileservice
 com.android.printspooler
 com.android.hotwordenrollment.okgoogle
@@ -285,7 +284,6 @@ com.android.apps.tag
 com.android.imsserviceentitlement
 com.samsung.android.ConnectivityOverlay
 com.samsung.android.stickercenter
-com.facebook.system
 com.samsung.android.providers.media
 com.sec.android.soagent
 com.sec.android.autodoodle.service
@@ -316,12 +314,10 @@ com.qualcomm.qti.smq
 com.samsung.app.newtrim
 com.samsung.android.dkey
 com.samsung.android.dsms
-com.samsung.android.fast
 com.samsung.android.lool
 com.samsung.android.app.notes
 com.sec.android.app.bluetoothtest
 com.sec.android.sdhms
-com.samsung.android.app.spage
 com.samsung.android.knox.analytics.uploader
 com.samsung.android.sm.policy
 com.sec.android.emergencylauncher
@@ -378,7 +374,6 @@ com.sec.android.app.personalization
 com.sec.factory.cameralyzer
 com.android.bluetoothmidiservice
 com.samsung.android.sdk.handwriting
-com.facebook.appmanager
 com.samsung.android.service.pentastic
 com.samsung.android.smartsuggestions
 com.android.traceur

@@ -19,3 +19,8 @@ com.samsung.android.app.settings.bixby
 com.samsung.android.arzone
 com.samsung.android.messaging
 com.samsung.systemui.bixby2
+com.facebook.appmanager
+com.facebook.services
+com.facebook.system
+com.samsung.android.app.spage
+com.samsung.android.fast
